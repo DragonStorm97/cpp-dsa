@@ -1,5 +1,5 @@
 #include "cpp-dsa.hpp"
-#include "data-structure-visualiser.hpp"
+#include "algorithm-visualiser.hpp"
 #include "libcpp-dsa.hpp"
 
 int main()
